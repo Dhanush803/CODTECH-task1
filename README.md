@@ -1,1 +1,2 @@
-# CODTECH-task1
+Name : Dhanush HR
+Company : Codetech IT solutions
